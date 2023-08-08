@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "906585886866",
+    "project_id": "grih-sajja",
+    "storage_bucket": "grih-sajja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906585886866:android:98d568999b233d585e964b",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906585886866-f1h6pd56ebtbtk7rsc56e1sm8oih00og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_app",
+            "certificate_hash": "4f39f8b6a0d343934163448a7d3c290b2c1e8815"
+          }
+        },
+        {
+          "client_id": "906585886866-45mqjf2d61joe3j8pe5osj5ehlja8jm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMqsHnJ4UK_waiq8Rwn8qlv9jfDcxza0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906585886866-45mqjf2d61joe3j8pe5osj5ehlja8jm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
